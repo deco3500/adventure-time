@@ -429,4 +429,5 @@ Show promotional material
 ####Journalism and News key concepts
 * #CollateInformation 
 * #Community
+* #LocalNews
 
