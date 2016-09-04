@@ -95,14 +95,11 @@ Application files will be stored on GitHub, conforming to UQ’s Git guidelines 
 
 # Plan
 
-Phase
-Due Date
-Task
-Description
-Research
- 23.59 Monday
-5 Sep 2016
-Proposal Documentation
+## Phase: Research
+
+
+## Proposal Documentation
+## *Due:* 23:59 Monday 5 Sep 2016
 Upload this document to GitHub
 18:00 Wednesday
 7 Sep 2016
