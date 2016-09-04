@@ -101,13 +101,15 @@ Application files will be stored on GitHub, conforming to UQ’s Git guidelines 
 #### *Due:* 23:59 Monday 5 Sep 2016
 Upload this document to GitHub
 
+
+
 ### Prepare Survey
 #### *Due:* 18:00 Wednesday 7 Sep 2016
-*Goal:*
+##### *Goal:*
 
 Understand users of similar apps in the market and what design would attract users to use our application
 
-*Tasks:*
+##### *Tasks:*
 
 Create a survey asking users of similar apps:
 * Why they use the application
@@ -117,48 +119,56 @@ Create a survey asking users of similar apps:
 
 The survey will require specific questions so we are provided with useable feedback to create our interface design. 
 
+
+
 ### Launch Survey
 #### *Due:* 18:00 Thursday 8 Sep 2016
-*Goal:*
+##### *Goal:*
 
 Gain as much feedback for the research as possible
 
-*Tasks:*
+##### *Tasks:*
 
 * Each team member will review survey questions then post the online survey link to their social networks, eg: Facebook, Google + Communities, friends and families
 * Post a photo with the url link + write a brief summary asking for feedback
 
+
+
 ### Analysis of Survey
 #### *Due:* 18:00 Tuesday 13 Sep 2016
-*Goal:*
+##### *Goal:*
 
 Understand the target user’s reasons for using a bargain hunting application to create a user interface
 
-*Tasks:*
+##### *Tasks:*
 
 * Analyse results from the survey and summarise the results from each question. Extract the key elements required for a basic bargain app.
 * Create summary graphical analysis of results for the standup
 
+
+
 ### Survey results documentation on Github
 #### *Due:* 23:59 Tuesday 13 Sep 2016
-*Goal:*
+##### *Goal:*
 
 Upload documentation on GitHub
 
-*Tasks:*
+##### *Tasks:*
 
 * Upload a project update documentation of progress on github
 * Write progress so far
 * Post google slides with results onto github page
 * Overview of what we’re doing next
 
+
+
 ### Week 8 Stand Up
 #### *Due:* 10:00 Wednesday 14 Sep 2016
-*Goal:*
+##### *Goal:*
 
 Present findings of survey to class, show github page
 
-*Tasks:*
+##### *Tasks:*
 
 * Prepare a google slides presentation of our progress so far.
 * Overview of what we planned to do
@@ -168,95 +178,88 @@ Present findings of survey to class, show github page
 * What we plan to do next
 * Documentation on github
 
+
+
+## Phase: Prototype #1
+
 ### Prototype #1 Low fidelity wireframe
 #### *Due:* 18:00 Thursday 15 Sep 2016
-*Goal:*
+##### *Goal:*
 
 Create an initial wireframe of the layout for the application
 
-*Tasks:*
+##### *Tasks:*
 
 * Extract information about layout from survey and adapt it to Bargain Hunter
 * Create a list of key elements to have on the application
 * Create a wireframe of the elements in paper form
 
-### 
-#### *Due:* 
-*Goal:*
 
 
+### Prototype #1 Wireframe with details
+#### *Due:* 18:00 Sunday 18 Sep 2016
+##### *Goal:*
 
-*Tasks:*
-
-* 
-
-
-
-
-
-Goal:
-
-
-Tasks:
-
-18:00 Sunday
-18 Sep 2016
-Prototype #1
-Wireframe with details
-Goal:
 Iterate over wireframe and add intensive details on hand-drawn paper
 
-Tasks:
-Make a more detailed version of the wireframe by adding specific writing and button names etc.
+##### *Tasks:*
 
-Establish non-changing elements of the app e.g. labels on the page, button names, placement of rating system etc.
-18:00 Tuesday
-20 Sep 2016
-Prototype #1
-Low fidelity mockup
-Goal:
+* Make a more detailed version of the wireframe by adding specific writing and button names etc.
+* Establish non-changing elements of the app e.g. labels on the page, button names, placement of rating system etc.
+
+### Prototype #1 Low fidelity mockup
+#### *Due:* 18:00 Tuesday 20 Sep 2016
+##### *Goal:*
+
 Have a final version of layout for the application
 
-Tasks:
-Figure out how the application would work by animating the wireframes on the paper prototype
+##### *Tasks:*
 
-Have a basic computer mockup print out of paper prototype ready for user testing
-18:00 Wednesday
-21 Sep 2016
-Prototype #1
-Video explanation
-Goal:
+* Figure out how the application would work by animating the wireframes on the paper prototype
+* Have a basic computer mockup print out of paper prototype ready for user testing
+
+### Prototype #1 Video explanation
+#### *Due:* 18:00 Wednesday 21 Sep 2016
+##### *Goal:*
+
 Document the way that the application would work
 
-Tasks:
-Create a video explanation of the paper prototype, including the animation and look and feel of the application, and the reason behind why we chose to do it this way
-User testing
-18:00 Saturday
-24 Sep 2016
-Prototype #1
-User testing and evaluation
-Goal:
+##### *Tasks:*
+
+* Create a video explanation of the paper prototype, including the animation and look and feel of the application, and the reason behind why we chose to do it this way
+* User testing
+
+
+### Prototype #1 User testing and evaluation
+#### *Due:* 18:00 Saturday 24 Sep 2016
+##### *Goal:*
+
 Get feedback on layout of application
 
-Tasks:
-Each team member should gather at least 1 friend and ask them if they are able to film a feedback session for our university project
+##### *Tasks:*
 
-Present the friend with the paper prototype and ask them to complete a task. (each member will be given one aspect to test, either through horizontal prototyping or vertical prototyping)
+* Each team member should gather at least 1 friend and ask them if they are able to film a feedback session for our university project
+* Present the friend with the paper prototype and ask them to complete a task. (each member will be given one aspect to test, either through horizontal prototyping or vertical prototyping)
+* Film the testing session. Ask the friend to speak how they feel about completing certain tasks and talk through what they’re doing.
+    * Does user know what the app is
+    * Does user understand how app works
+    * Is the app hard to navigate for user
+    * Is the app appealing (visually and functionality)
+    * Would the user use app again
+    * Why is this app better/worse than existing apps in the market
+    * What would the user change,etc)
+* Filming/recording the demonstration will allow the team to grasp where users are having trouble with the application and allow the team to alter the interface design where need be. 
+ 
 
-Film the testing session. Ask the friend to speak how they feel about completing certain tasks and talk through what they’re doing.
+### Prototype #1 User testing and evaluation
+#### *Due:* 18:00 Saturday 24 Sep 2016
+##### *Goal:*
 
-Does user know what the app is
-Does user understand how app works
-Is the app hard to navigate for user
-Is the app appealing (visually and functionality)
-Would the user use app again
-Why is this app better/worse than existing apps in the market
-What would the user change,etc)
+Get feedback on layout of application
 
-Filming/recording the demonstration will allow the team to grasp where users are having trouble with the application and allow the team to alter the interface design where need be. 
+##### *Tasks:*
 
-
-
+* 
 Prototype #1
 18:00 Sunday
 25 Sep 2016
