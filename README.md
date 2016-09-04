@@ -18,40 +18,40 @@ There are several current offerings which showcase discounts and bargains in Aus
 # Team
 ### Joel Achilles (Chief Design Officer)
 
-###### Responsibilities
+#### Responsibilities
 * Interface design, graphics, front end coding
 
-###### Contact Details
+#### Contact Details
 * m: 0419941726
 * e: joelachilles94@gmail.com
 * slack: jachi3
 
 ### Matthew Chin (Chief User Experience Officer)
 
-###### Responsibilities
+#### Responsibilities
 * Interface design, front end coding, user experience testing
 
-###### Contact Details
+#### Contact Details
 * m: 0457 295 495
 * e: matthew.chin@student.uq.edu.au
 * slack: Matty-Chin
 
 ### Jairaldine Cruz (Chief Business Development Officer)
 
-######Responsibilities
+#### Responsibilities
 * Content management, sourcing discounts
 
-###### Contact Details
+#### Contact Details
 * m: 0447 038 717
 * e: jairaldine@aeonex.co
 * slack: jairaldine
 
 ### Jaieden Girdler (Chief Information Technology Officer)
 
-###### Responsibilities
+#### Responsibilities
 * Backend coding and data architecture design
 
-###### Contact Details
+#### Contact Details
 * m: 0421 151 443
 * e: jaieden.girdler@uq.net.au
 * slack: Jaieden
@@ -97,16 +97,14 @@ Application files will be stored on GitHub, conforming to UQ’s Git guidelines 
 
 ## Phase: Research
 
-
-## Proposal Documentation
-## *Due:* 23:59 Monday 5 Sep 2016
+### Proposal Documentation
+#### *Due:* 23:59 Monday 5 Sep 2016
 Upload this document to GitHub
-18:00 Wednesday
-7 Sep 2016
-Prepare Survey
+
+### Prepare Survey
+#### *Due:* 18:00 Wednesday 7 Sep 2016
 Goal:
 Understand users of similar apps in the market and what design would attract users to use our application
-
 Tasks:
 Create a survey asking users of similar apps:
  Why they use the application
