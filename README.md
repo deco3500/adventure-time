@@ -103,76 +103,102 @@ Upload this document to GitHub
 
 ### Prepare Survey
 #### *Due:* 18:00 Wednesday 7 Sep 2016
-Goal:
+*Goal:*
+
 Understand users of similar apps in the market and what design would attract users to use our application
-Tasks:
+
+*Tasks:*
+
 Create a survey asking users of similar apps:
- Why they use the application
-What makes them come back to the application they use
-Why do they prefer certain apps over others
-What would the user change about the application they use
+* Why they use the application
+* What makes them come back to the application they use
+* Why do they prefer certain apps over others
+* What would the user change about the application they use
+
 The survey will require specific questions so we are provided with useable feedback to create our interface design. 
-18:00 Thursday
-8 Sep 2016
-Launch Survey
-Goal:
+
+### Launch Survey
+#### *Due:* 18:00 Thursday 8 Sep 2016
+*Goal:*
+
 Gain as much feedback for the research as possible
 
-Tasks:
-Each team member will review survey questions then post the online survey link to their social networks, eg: Facebook, Google + Communities, friends and families
-Post a photo with the url link + write a brief summary asking for feedback
+*Tasks:*
 
-18:00 Tuesday
-13 Sep 2016
-Analysis of Survey
-Goal:
+* Each team member will review survey questions then post the online survey link to their social networks, eg: Facebook, Google + Communities, friends and families
+* Post a photo with the url link + write a brief summary asking for feedback
+
+### Analysis of Survey
+#### *Due:* 18:00 Tuesday 13 Sep 2016
+*Goal:*
+
 Understand the target user’s reasons for using a bargain hunting application to create a user interface
 
-Tasks:
-Analyse results from the survey and summarise the results from each question. Extract the key elements required for a basic bargain app.
+*Tasks:*
 
-Create summary graphical analysis of results for the standup
-23:59 Tuesday
-13 Sep 2016
-Survey results documentation on Github
-Goal:
+* Analyse results from the survey and summarise the results from each question. Extract the key elements required for a basic bargain app.
+* Create summary graphical analysis of results for the standup
+
+### Survey results documentation on Github
+#### *Due:* 23:59 Tuesday 13 Sep 2016
+*Goal:*
+
 Upload documentation on GitHub
 
-Task:
-Upload a project update documentation of progress on github
-Write progress so far
-Post google slides with results onto github page
-Overview of what we’re doing next
+*Tasks:*
 
-Prototype #1
-10:00 Wednesday
-14 Sep 2016
-Week 8 Stand Up
-Goal:
+* Upload a project update documentation of progress on github
+* Write progress so far
+* Post google slides with results onto github page
+* Overview of what we’re doing next
+
+### Week 8 Stand Up
+#### *Due:* 10:00 Wednesday 14 Sep 2016
+*Goal:*
+
 Present findings of survey to class, show github page
 
-Tasks:
-Prepare a google slides presentation of our progress so far.
-Overview of what we planned to do
-Showcase the questionnaire
-Overview of Results
-Summary of results
-What we plan to do next
-Documentation on github
+*Tasks:*
 
-18:00 Thursday
-15 Sep 2016
-Prototype #1
-Low fidelity wireframe
-Goal:
+* Prepare a google slides presentation of our progress so far.
+* Overview of what we planned to do
+* Showcase the questionnaire
+* Overview of Results
+* Summary of results
+* What we plan to do next
+* Documentation on github
+
+### Prototype #1 Low fidelity wireframe
+#### *Due:* 18:00 Thursday 15 Sep 2016
+*Goal:*
+
 Create an initial wireframe of the layout for the application
 
+*Tasks:*
+
+* Extract information about layout from survey and adapt it to Bargain Hunter
+* Create a list of key elements to have on the application
+* Create a wireframe of the elements in paper form
+
+### 
+#### *Due:* 
+*Goal:*
+
+
+
+*Tasks:*
+
+* 
+
+
+
+
+
+Goal:
+
+
 Tasks:
-Extract information about layout from survey and adapt it to Bargain Hunter.
 
-Create a list of key elements to have on the application
-
-Create a wireframe of the elements in paper form
 18:00 Sunday
 18 Sep 2016
 Prototype #1
