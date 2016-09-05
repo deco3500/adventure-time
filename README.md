@@ -179,7 +179,6 @@ Present findings of survey to class, show github page
 * Documentation on github
 
 
-
 ## Phase: Prototype #1
 
 ### Prototype #1 Low fidelity wireframe
@@ -251,196 +250,203 @@ Get feedback on layout of application
 * Filming/recording the demonstration will allow the team to grasp where users are having trouble with the application and allow the team to alter the interface design where need be. 
  
 
-### Prototype #1 User testing and evaluation
-#### *Due:* 18:00 Saturday 24 Sep 2016
+### Prototype #1 Gather user testing results
+#### *Due:* 18:00 Sunday 25 Sep 2016
 ##### *Goal:*
 
-Get feedback on layout of application
+Gather results and extract points of improvement
 
 ##### *Tasks:*
 
-* 
-Prototype #1
-18:00 Sunday
-25 Sep 2016
-Prototype #1
-Gather user testing results
-Goal:
-Gather results and extract points of improvement
-
-Tasks:
 Extract key points individually from video sessions
 
 Collate feedback together and analyse key aspects to improve upon and translate into things to do for the prototype iteration
-23:59 Tuesday
-27 Sep 2016
-Prototype #1
-User testing documentation on GitHub
-Goal:
+
+### Prototype #1 User testing documentation on GitHub
+#### *Due:* 23:59 Tuesday 27 Sep 2016
+##### *Goal:*
+
 Upload documentation on GitHub
 
-Task:
-Upload a project update documentation of progress on github
-Show wireframe progress
-Show video of paper prototype
-Show videos of user testing
-Show results of user test
-Overview of what we’re doing next
+##### *Tasks:*
 
-Prototype #2
-10:00 Wednesday
-28 Sep 2016
-Week 10 Stand Up
-Goal:
+Upload a project update documentation of progress on github
+* Show wireframe progress
+* Show video of paper prototype
+* Show videos of user testing
+* Show results of user test
+* Overview of what we’re doing next
+
+## Phase: Prototype #2
+
+### Prototype #2 Week 10 Stand Up
+#### *Due:* 10:00 Wednesday 28 Sep 2016
+##### *Goal:*
+
 Present findings of wireframe and user testing to class
 
-Tasks:
-Talk through gitHub documentation of progress
+##### *Tasks:*
+* Talk through gitHub documentation of progress
 
-23:59 Wednesday
-28 Sep 2016
-Redesign Interface
-Goal:
+
+### Prototype #2 Redesign Interface
+#### *Due:* 23:59 Wednesday 28 Sep 2016
+##### *Goal:*
+
 Take on user feedback for improvement
 
-Tasks:
+##### *Tasks:*
+
 Adapt feedback from user testing and stand up to re-design the current prototype
-23:59 Friday
-30 Sep 2016
-Digital Prototype basic mockup
-Goal:
+
+### Prototype #2 Digital Prototype basic mockup
+#### *Due:* 23:59 Friday 30 Sep 2016
+##### *Goal:*
+
 Create base for digital prototype
 
-Tasks:
-Decide on official layout
-Decide on official colour scheme
-Convert the paper prototype to a digital platform
+##### *Tasks:*
 
-23:59 Sunday
-2 Oct 2016
-Digital Prototype with content
-Goal:
+* Decide on official layout
+* Decide on official colour scheme
+* Convert the paper prototype to a digital platform
+
+### Prototype #2 Digital Prototype with content
+#### *Due:* 23:59 Sunday 2 Oct 2016
+##### *Goal:*
+
 Iterate over digital prototype and add content
 
-Tasks:
-Collect information about one shop
-Discounts
-Cheap items at or under $5
-Opening times
-Location
-photos
+##### *Tasks:*
 
+Collect information about one shop
+* Discounts
+* Cheap items at or under $5
+* Opening times
+* Location
+* Photos
 Upload content to basic mockup
 
 Create filler words for mockup
 
+### Prototype #2 User testing
+#### *Due:* 10:00 Wednesday 5 Oct 2016
+##### *Goal:*
 
-User testing #2
-10:00 Wednesday
-5 Oct 2016
-User testing
-Goal:
 Test the user experience and user flow of the application
 
-Tasks:
-Use the justinmind digital prototype creator to test usability
-Record feedback on video
-Collate and summarise information on feedback
-Apply feedback to content
+##### *Tasks:*
 
-Prototype #2
-23:59 Thursday
-6 Oct 2016
-Content curation
-Goal:
+* Use the justinmind digital prototype creator to test usability
+* Record feedback on video
+* Collate and summarise information on feedback
+* Apply feedback to content
+
+### Prototype #2 Content curation
+#### *Due:* 23:59 Thursday 6 Oct 2016
+##### *Goal:*
+
 Fill in more content
 
-Tasks:
-Collect information about 2 - 5 more shops
-Discounts
-Cheap items at or under $5
-Opening times
-Location
-photos
+##### *Tasks:*
 
+Collect information about 2 - 5 more shops
+* Discounts
+* Cheap items at or under $5
+* Opening times
+* Location
+* Photos
 Upload content to digital mockup
-23:59 Friday
-7 Oct 2016
-Stretch goal - Digital website layout
-Goal:
+
+### Prototype #2 Stretch goal - Digital website layout
+#### *Due:* 23:59 Friday 7 Oct 2016
+##### *Goal:*
+
 Create a working digital prototypes layout
 
-Tasks:
-Create a website with the basic layout of the application
-Backend database for login
-Front end html + css for layout
+##### *Tasks:*
 
-23:59 Sunday
-9 Oct 2016
-Stretch goal - Digital website creation
-Goal:
+Create a website with the basic layout of the application
+* Backend database for login
+* Front end html + css for layout
+
+### Prototype #2 Stretch goal - Digital website creation
+#### *Due:* 23:59 Sunday 9 Oct 2016
+##### *Goal:*
+
 Create a working digital prototype ready for testing
 
-Tasks:
-Web server with mysql, phpmyadmin, web hosting, php
-Database of pictures and items for sale
+##### *Tasks:*
 
-User testing
-23:59 Tuesday
-11 Oct 2016
-Final user testing
-Goal:
+* Web server with mysql, phpmyadmin, web hosting, php
+* Database of pictures and items for sale
+
+### Prototype #2 Final user testing
+#### *Due:* 23:59 Tuesday 11 Oct 2016
+##### *Goal:*
+
 Test the overall usability of the application
 
-Tasks:
-User test on website or justinmind application
-Does user know what the app is
-Does user understand how app works
-Is the app hard to navigate for user
-Is the app appealing (visually and functionality)
-Would the user use app again
-Why is this app better/worse than existing apps in the market
-What would the user change,etc)
+##### *Tasks:*
 
-23:59 Tuesday
-11 Oct 2016
-Prototype #2
-User testing documentation on GitHub
-Goal:
+User test on website or justinmind application
+* Does user know what the app is
+* Does user understand how app works
+* Is the app hard to navigate for user
+* Is the app appealing (visually and functionality)
+* Would the user use app again
+* Why is this app better/worse than existing apps in the market
+* What would the user change,etc)
+
+### Prototype #2 User testing documentation on GitHub
+#### *Due:* 23:59 Tuesday 11 Oct 2016
+##### *Goal:*
+
 Upload documentation on GitHub
 
-Task:
-Upload a project update documentation of progress on github
-Show digital prototype progress
-Show video of justinmind prototype
-Show video of website
-Show videos of user testing
-Show results of user test
-Overview of what we’re doing next
+##### *Tasks:*
 
-Showcase and Reflection
-10:00 Wednesday 12 Oct 2016
-Promotional material
-Goal:
+Upload a project update documentation of progress on github
+* Show digital prototype progress
+* Show video of justinmind prototype
+* Show video of website
+* Show videos of user testing
+* Show results of user test
+* Overview of what we’re doing next
+
+### Prototype #2 User testing documentation on GitHub
+#### *Due:* 23:59 Tuesday 11 Oct 2016
+##### *Goal:*
+
+Upload documentation on GitHub
+
+##### *Tasks:*
+
+## Phase: Showcase and Reflection
+
+### Promotional material
+#### *Due:* 10:00 Wednesday 12 Oct 2016
+##### *Goal:*
+
 Create highly creative and engaging promotional material that effectively explains your project and exhibits high production values
 
-Tasks:
-Digitally design a brochure and flyer for the application
+##### *Tasks:*
 
-Print designs to a high quality
+* Digitally design a brochure and flyer for the application
+* Print designs to a high quality
+* Create a promotional video of application with live action shots and graphics
+* Link to website / justinmind prototype embedded into website
 
-Create a promotional video of application with live action shots and graphics
+### Week 12 standup
+#### *Due:* 10:00 Wednesday 12 Oct 2016
+##### *Goal:*
 
-Link to website / justinmind prototype embedded into website
-
-10:00 Wednesday 12 Oct 2016
-Week 12 standup
-Goal:
 Present whole project to class
 
-Tasks:
-Talk through gitHub documentation of progress
-Show promotional material
+##### *Tasks:*
+
+* Talk through gitHub documentation of progress
+* Show promotional material
 
 # Tags
 #### Social and mobile key concepts
