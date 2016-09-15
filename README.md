@@ -461,3 +461,12 @@ Present whole project to class
 * #Community
 * #LocalNews
 
+# Stand Up Week 8
+## What Has Happened
+
+
+## What Will Happen
+
+## What is Preventing Progress
+
+
