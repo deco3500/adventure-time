@@ -5,6 +5,10 @@ Bargain Hunter group
 |---|---|---|---|
 |42925550|43557293|43935118|42931953|
 
+# Prototype
+Please click the link to be directed to our working prototype.
+http://bh.jaieden.com/prototype/index.html
+
 # Introduction
 The project team Adventure Time is working on during Semester 2 2016 is “Bargain Hunter”, which is a website application made for students that want to save money by finding deals in their local area. Bargain Hunter allows users to set filters based on their particular interests and location. High quality posts attract more views/up-votes and can earn points which are used to earn a higher ranking within the Bargain Hunter community. With these features Bargain Hunter addresses the social journalism dilemma that news is distributed through multiple sources. 
 
@@ -460,13 +464,3 @@ Present whole project to class
 * #CollateInformation 
 * #Community
 * #LocalNews
-
-# Stand Up Week 8
-## What Has Happened
-
-
-## What Will Happen
-
-## What is Preventing Progress
-
-
